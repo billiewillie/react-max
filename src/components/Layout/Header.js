@@ -11,7 +11,7 @@ const Header = () => {
 				<HeaderCartButton />
 			</header>
 			<div className={classes["main-image"]}>
-				<img src={mealsImage} />
+				<img src={mealsImage} alt='' />
 			</div>
 		</Fragment>
 	);
