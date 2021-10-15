@@ -13,7 +13,7 @@ const Cart = () => {
 			</div>
 			<div className={classes.actions}>
 				<button className={classes["button--alt"]}>Close</button>
-				<button className={classes.button}>Order</button>
+				<button className={classes.button}>Order111</button>
 			</div>
 		</div>
 	);
